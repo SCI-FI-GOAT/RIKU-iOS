@@ -1,0 +1,6 @@
+framework module CheckBox_RadioGroup {
+  umbrella header "CheckBox-RadioGroup-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Riku_RH {
+  umbrella header "Pods-Riku RH-umbrella.h"
+
+  export *
+  module * { export * }
+}
